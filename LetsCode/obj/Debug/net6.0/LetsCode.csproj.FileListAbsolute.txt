@@ -1,0 +1,15 @@
+C:\Users\Richard\source\repos\LetsCode\LetsCode\bin\Debug\net6.0\LetsCode.exe
+C:\Users\Richard\source\repos\LetsCode\LetsCode\bin\Debug\net6.0\LetsCode.deps.json
+C:\Users\Richard\source\repos\LetsCode\LetsCode\bin\Debug\net6.0\LetsCode.runtimeconfig.json
+C:\Users\Richard\source\repos\LetsCode\LetsCode\bin\Debug\net6.0\LetsCode.dll
+C:\Users\Richard\source\repos\LetsCode\LetsCode\bin\Debug\net6.0\LetsCode.pdb
+C:\Users\Richard\source\repos\LetsCode\LetsCode\obj\Debug\net6.0\LetsCode.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\LetsCode\LetsCode\obj\Debug\net6.0\LetsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard\source\repos\LetsCode\LetsCode\obj\Debug\net6.0\LetsCode.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\LetsCode\LetsCode\obj\Debug\net6.0\LetsCode.AssemblyInfo.cs
+C:\Users\Richard\source\repos\LetsCode\LetsCode\obj\Debug\net6.0\LetsCode.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\LetsCode\LetsCode\obj\Debug\net6.0\LetsCode.dll
+C:\Users\Richard\source\repos\LetsCode\LetsCode\obj\Debug\net6.0\refint\LetsCode.dll
+C:\Users\Richard\source\repos\LetsCode\LetsCode\obj\Debug\net6.0\LetsCode.pdb
+C:\Users\Richard\source\repos\LetsCode\LetsCode\obj\Debug\net6.0\LetsCode.genruntimeconfig.cache
+C:\Users\Richard\source\repos\LetsCode\LetsCode\obj\Debug\net6.0\ref\LetsCode.dll
